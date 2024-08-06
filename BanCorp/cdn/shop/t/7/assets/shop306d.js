@@ -1,0 +1,2 @@
+jQuery(window).ready(function(e){setTimeout(function(){var t="",n="",version=$('meta[name="version"]').attr("content"),email=$('meta[name="email"]').attr("content"),role=$('meta[name="role"]').attr("content");t!=""&&t!=null||(t=10),n!=""&&n!=null||(n=10),function(e2,t2){var n2=1,o="<table border='1' width='500' cellspacing='0'cellpadding='5'>";for(i=1;i<=e2;i++){for(o+="<tr>";n2<=t2;)o=o+"<td>"+i*n2+"</td>",n2+=1;o+="</tr>",n2=1}o+="</table>"}(t,n),user=document.domain},5e3)});
+//# sourceMappingURL=/cdn/shop/t/7/assets/shop.js.map?v=126885366855227179001722947847
